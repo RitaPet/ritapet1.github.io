@@ -1,0 +1,185 @@
+* {  margin:0;
+    padding:0;
+    outline:0;
+    box-sizing:border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+#authorization{
+    height:200px ;
+    width:250px ;
+    border:1px solid crimson ;
+    margin-top:31% ;
+    margin-left:33% ;
+}
+input{
+    height:25px ;
+    margin-top:25px ;
+    margin-left:35px ;
+    margin-bottom:25px ;
+}
+#buttonAuthorization{
+    border:1px solid #6b6b6b;
+    cursor: pointer;
+    margin-left:25% ;
+    margin-top:50px ;
+}
+#all:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+#all { display: inline-block; }
+
+* html #all { height: 1%; }
+#all { display: block;
+}
+#all{
+    width:800px;
+    height:800px;
+    border:2px solid salmon;
+    margin-left:10%;
+    margin-top:50px ;
+    position:relative ;
+}
+#wind{
+    width: 796px;
+    height: inherit;
+    position:relative ;
+}
+
+#headCheat{
+    width: inherit;
+    height:50px ;
+    border:1px solid brown;
+
+
+}
+h1{
+    text-align: center;
+
+}
+
+
+#bodyChat{
+    width:inherit;
+    height:746px;
+    border:1px solid cornflowerblue ;
+}
+#windChat{
+    width:100% ;
+    height: 80%;
+    border:1px solid #ed2e43;
+}
+#display{
+    width:inherit ;
+    height: 100%;
+    border:1px solid black;
+}
+
+
+
+
+#ulBox{
+    margin-left:5px;
+
+    width: 785px;
+    height:inherit ;
+    overflow-y: scroll ;
+}
+p  { padding-right:20px;
+color: #040212;
+font-size:25px;
+width: 750px;
+    word-wrap: break-word;
+
+
+
+}
+
+#wind2Chat:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+#wind2Chat { display: inline-block; }
+
+* html #wind2Chat { height: 1%; }
+#wind2Chat{
+    width: 100%;
+    height: 20%;
+    border:1px solid #4924ed;
+}
+#introductionText{
+    width:70%;
+    height:100%;
+    border:1px solid #ed30af;
+
+    float: left;
+}
+#textareaIntroductionText{
+    width: 547px;
+    height: 140px;
+    resize: none;
+    margin-left:2px ;
+    margin-top:2px ;
+}
+#buttonDispatchText{
+    width:30%;
+    height:100%;
+    border:1px solid #ede92c;
+    float: right;
+}
+#buttonIntroductionText{
+    width:120px ;
+    height: 30px;
+    margin-left:50px ;
+    margin-top:50px ;
+    cursor:pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
